@@ -192,9 +192,7 @@ Top features: `ann_txn_amt_sum_2014` (0.155), `ann_txn_amt_count_2014` (0.106), 
 
 ```
 che1147-assignment5/
-├── Kush_Lad_Assignment_5_submission_.ipynb     # Original submission
-├── Kush_Lad_Assignment_5_submission_.html      # HTML export
-├── Kush_Lad_Assignment_5_Improved.ipynb        # ✅ Refactored (26 cells)
+├── PromotIQ.ipynb                              # Main File of the Project
 ├── data/
 │   ├── Retail_Data_Response.csv                # 6,884 client responses
 │   ├── annual features.xlsx                    # 6,884 × 40 annual aggregations
