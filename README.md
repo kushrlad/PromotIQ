@@ -200,7 +200,7 @@ che1147-assignment5/
 │   ├── mth_rolling_features.xlsx               # 323,783 × 22 rolling windows
 │   ├── mth_day_counts.xlsx                     # 323,783 × 9 monthly DOW
 │   └── days_since_last_txn.xlsx                # 323,783 × 3 recency
-└── README.md
+└── PromotIQ.md
 ```
 ## 📦 Dependencies
 
